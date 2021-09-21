@@ -1,0 +1,15 @@
+
+import './App.css';
+import background from "./books.jpg";
+
+export default function App() {
+  return (
+    <div className="App" style={{ backgroundImage: `url(${background})`, minHeight: '100%'}} >
+      <header className="App-header">
+       Hello
+      </header>
+    </div>
+  );
+}
+
+
