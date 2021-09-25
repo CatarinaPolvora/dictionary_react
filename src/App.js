@@ -10,7 +10,10 @@ export default function App() {
      <header className="App-header">
        <Dictionary/>
       </header>
-    </div>
+      <br/>
+      <br/>
+    </div>      <small>This project was coded by Catarina Almeida and is <a href="https://github.com/CatarinaPolvora/dictionary_react">open-sourced.</a></small>
+
     </div>
   );
 }
