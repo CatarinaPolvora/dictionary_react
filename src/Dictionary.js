@@ -21,6 +21,8 @@ axios.get(apiUrl).then(handleResponse);}
         setKeyword(event.target.value);
     }
     return <div className="Dictionary">
+        <h1>Dictionary</h1>
+        <br/>
         <form onSubmit={search}><input type="search" onChange={handleKeywordChange} autoFocus={true}/></form>
         <Results results={results}/>
     </div>
