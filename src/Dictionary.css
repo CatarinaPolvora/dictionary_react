@@ -2,3 +2,7 @@ body {
     
     background-size: cover;
 }
+li {text-align:center;
+  display: block;
+  margin: 0 auto;
+}
