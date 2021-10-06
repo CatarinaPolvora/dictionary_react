@@ -23,7 +23,7 @@ img{
 
 li {
 text-align:center;
-  display: inline;
+  display: inline-block;
   padding-right: 20px;
 }
 
