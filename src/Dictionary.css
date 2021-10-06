@@ -13,6 +13,13 @@ input {
     margin-bottom: 20px;
 }
 
+img{
+    border-radius: 4px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    
+}
 
 li {
 text-align:center;
